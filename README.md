@@ -1,6 +1,8 @@
 # DC-IA
 Para descargar el proyecto debera descargar la segunda parte del modelo entrenado para la identificación de cáncer en la piel
+
 Paso 1 - Entrar al drive
+
 https://drive.google.com/drive/folders/1f7ovR6tdcjMXGJ6H7QYhwhdXy1kOhaJa
 
 Paso 2 - Entrar a la carpeta Descargar Web 
