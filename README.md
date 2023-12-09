@@ -1,5 +1,5 @@
 # DC-IA
-Para descargar el proyecto debera descargar la segunda parte del modelo entrenado para la identificación de cáncer en la piel
+Para instalar el proyecto debera descargar la segunda parte del modelo entrenado para la identificación de cáncer en la piel
 
 Paso 1 - Entrar al drive
 
