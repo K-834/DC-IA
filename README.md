@@ -30,4 +30,6 @@ Paso 8 - Colocar la direccion y el puerto en el navegador preferido
 ![image](https://github.com/K-834/DC-IA/assets/84693877/aa0c8cd8-a7f8-4d83-8be1-b24368076a7b)
 
 Eso seria los pasos necesarios para tener nuestro trabajo de forma local, alguna duda o problemas dejar un comentario. 
+
+NOTA: Si se quiere ingresar sin instalar, se debe descargar Anydesk para ingresar, usando el siguiente código : 1606392565
  
