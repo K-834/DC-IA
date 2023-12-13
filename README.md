@@ -32,4 +32,6 @@ Paso 8 - Colocar la direccion y el puerto en el navegador preferido
 Eso seria los pasos necesarios para tener nuestro trabajo de forma local, alguna duda o problemas dejar un comentario. 
 
 NOTA: Si se quiere ingresar sin instalar, se debe descargar Anydesk para ingresar, usando el siguiente código : 1606392565
+contraseña: integrador
+
  
